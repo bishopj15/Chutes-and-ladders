@@ -5,6 +5,7 @@
 
 using namespace std;
 //i have made a change
+//more and more changes
 Master::Master(int num){
     if(num<2 || num>10) numberOfPlayers = 2;
     else numberOfPlayers = num;
